@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.linkedin.com/in/chris-daniele/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon%2C_2013-2019.svg" alt="LinkedIn" style="width: 30px; height: 30px; border: none;"/>
-  LinkedIn
-</a>
+[Check out my LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/chris-daniele/))
 
 
 
