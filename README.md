@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/chris-daniele/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 30px; height: 30px; border: none;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png](https://en.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_2021.svg" alt="LinkedIn" style="width: 30px; height: 30px; border: none;"/>
   LinkedIn
 </a>
 
