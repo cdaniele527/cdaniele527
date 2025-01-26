@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**cdaniele527/cdaniele527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chris, a passionate Business Intelligence Analyst who focuses on delivering high-quality results through data-driven solutions. I’ve gained  experience working on projects that require attention to detail, creative problem-solving, and collaboration through my BIA Bootcamp from TripleTen
 
-Here are some ideas to get you started:
+Fun Facts:
+I’m a huge fan of films, photography, and tech.
+What I'm Looking For:
+I’m open to participating in outsourcing projects and collaborating on results-oriented solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Tech Skills:
+Languages: SQL, HTML, CSS
+Tools & Frameworks: Tableau, Power BI, Adobe Photoshop, Illustrator, XD, Figma
+
+📍 Location:
+Atlanta, Georgia
+
+https://www.linkedin.com/in/chris-daniele/
