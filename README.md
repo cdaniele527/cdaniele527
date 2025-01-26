@@ -9,6 +9,7 @@ I’m open to participating in outsourcing projects and collaborating on results
 
 My Tech Skills:
 Languages: SQL, HTML, CSS
+
 Tools & Frameworks: Tableau, Power BI, Adobe Photoshop, Illustrator, XD, Figma
 
 📍 Location:
