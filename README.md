@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/chris-daniele/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png](https://en.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_2021.svg" alt="LinkedIn" style="width: 30px; height: 30px; border: none;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon%2C_2013-2019.svg" alt="LinkedIn" style="width: 30px; height: 30px; border: none;"/>
   LinkedIn
 </a>
+
 
 
 I'm Chris, a passionate Business Intelligence Analyst who focuses on delivering high-quality results through data-driven solutions. I’ve gained  experience working on projects that require attention to detail, creative problem-solving, and collaboration through my BIA Bootcamp from TripleTen
