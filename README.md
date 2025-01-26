@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[Check out my LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/chris-daniele/))
-
-
+[Visit my LinkedIn profile](https://www.linkedin.com/in/chris-daniele/)
 
 I'm Chris, a passionate Business Intelligence Analyst who focuses on delivering high-quality results through data-driven solutions. I’ve gained  experience working on projects that require attention to detail, creative problem-solving, and collaboration through my BIA Bootcamp from TripleTen
 
